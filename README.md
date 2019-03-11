@@ -1,7 +1,7 @@
 # Pig-game
 Web version of a popular dice game, Pig.
 
-##Game rules:
+## Game rules:
 
 * The game has 2 players, playing in rounds
 * In each turn, a player rolls a dice as many times as the palyer wishes. Each result get added to his/her ROUND score
